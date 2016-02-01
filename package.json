@@ -14,9 +14,9 @@
     "grunt": "~0.4.1"
   },
   "dependencies": {
-    "rethinkdb": "1.14.0-0",
-    "when": "~2.6.0",
-    "generic-pool": "~2.0.4"
+    "generic-pool": "~2.0.4",
+    "rethinkdb": "^2.2.1",
+    "when": "~2.6.0"
   },
   "keywords": [
     "rethinkdb",
